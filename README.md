@@ -27,3 +27,4 @@ drawings, language, music, and more."
   
   - [Microsoft Azure](https://azure.microsoft.com/en-us/services/machine-learning/) -> web-deployable model!
   
+- [Open AI](https://openai.com), with a powerful API (in beta as of Sept. 16, 2020) and links to many projects and papers
