@@ -14,9 +14,14 @@
 experiments that make it easier for anyone to start exploring machine learning, through pictures,
 drawings, language, music, and more."
 
-- Google's [Cloud AI Platform](https://cloud.google.com/ai-platform/) -> free computational power,
-API, storage space, etc.
+- [AI Platforms](https://towardsdatascience.com/top-artificial-intelligence-platforms-for-2020-80570c65c1b4)
 
-- [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio): "Build, run and manage AI models.
-Prepare data and build models anywhere using open source code or visual modeling. Predict and
-optimize your outcomes."
+  - Google's [Cloud AI Platform](https://cloud.google.com/ai-platform/) -> free computational power,
+  API, storage space, etc.
+
+  - [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio): "Build, run and manage AI models.
+  Prepare data and build models anywhere using open source code or visual modeling. Predict and
+  optimize your outcomes."
+  
+  - [Microsoft Azure](https://azure.microsoft.com/en-us/services/machine-learning/) -> web-deployable model!
+  
