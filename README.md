@@ -7,6 +7,8 @@
   - NLP with Python (using spaCy, as well as other packages)
   
   - Extracting parts of speech, general facts, types of phrases (e.g. geographical locations)
+  
+- [Natural Language Toolkit (NLTK)](https://www.nltk.org/), a Python library
 
 # General AI
 
