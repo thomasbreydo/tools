@@ -12,6 +12,8 @@
 
 # General AI
 
+- [The Ultimate Guide to Learning About Artificial Intelligence](https://medium.com/@mr.adam.maj/the-ultimate-guide-to-becoming-an-artificial-intelligence-expert-db5124dc8ae0#cf98)
+
 - "[AI Experiments](https://experiments.withgoogle.com/collection/ai) is a showcase for simple
 experiments that make it easier for anyone to start exploring machine learning, through pictures,
 drawings, language, music, and more."
