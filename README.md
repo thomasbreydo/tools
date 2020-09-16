@@ -8,3 +8,4 @@
 
 # General AI
 - "[AI Experiments](https://experiments.withgoogle.com/collection/ai) is a showcase for simple experiments that make it easier for anyone to start exploring machine learning, through pictures, drawings, language, music, and more."
+- Google's [Cloud AI Platform](https://cloud.google.com/ai-platform/) -> free computational power, API, storage space, etc.
