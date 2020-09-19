@@ -30,3 +30,9 @@ drawings, language, music, and more."
   - [Microsoft Azure](https://azure.microsoft.com/en-us/services/machine-learning/) -> web-deployable model!
   
 - [Open AI](https://openai.com), with a powerful API (in beta as of Sept. 16, 2020) and links to many projects and papers
+
+# Quantum Computing/Physics
+
+- IBM's free [online computer](https://quantum-computing.ibm.com/docs/manage/)
+ 
+- IBM's [What is Quantum Computing?](https://www.ibm.com/quantum-computing/learn/what-is-quantum-computing/)
