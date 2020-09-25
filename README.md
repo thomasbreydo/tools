@@ -36,3 +36,5 @@ drawings, language, music, and more."
 - IBM's free [online computer](https://quantum-computing.ibm.com/docs/manage/)
  
 - IBM's [What is Quantum Computing?](https://www.ibm.com/quantum-computing/learn/what-is-quantum-computing/)
+
+- [Info about Companies Doing Quantum Computing](https://builtin.com/hardware/quantum-computing-applications)
