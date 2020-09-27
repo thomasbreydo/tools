@@ -38,3 +38,5 @@ drawings, language, music, and more."
 - IBM's [What is Quantum Computing?](https://www.ibm.com/quantum-computing/learn/what-is-quantum-computing/)
 
 - [Info about Companies Doing Quantum Computing](https://builtin.com/hardware/quantum-computing-applications)
+
+- Learning [qiskit](https://qiskit.org/learn), a Python framework for quantum computing
