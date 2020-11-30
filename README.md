@@ -40,3 +40,9 @@ drawings, language, music, and more."
 - [Info about Companies Doing Quantum Computing](https://builtin.com/hardware/quantum-computing-applications)
 
 - Learning [qiskit](https://qiskit.org/learn), a Python framework for quantum computing
+
+### Videos
+
+- [Spin of An Electron: Why "Spin Up" and "Spin Down"?](https://youtu.be/EfH8XuYbRQ0)
+
+- Quantum computing language: [here](https://youtu.be/payp7simhBM)
