@@ -41,6 +41,8 @@ drawings, language, music, and more."
 
 - Learning [qiskit](https://qiskit.org/learn), a Python framework for quantum computing
 
+- [Introduction to the Quantum Circuit Model](https://www.cs.cmu.edu/~odonnell/quantum15/QuantumComputationScribeNotesByRyanODonnellAndJohnWright.pdf)
+
 ### Videos
 
 - [Spin of An Electron: Why "Spin Up" and "Spin Down"?](https://youtu.be/EfH8XuYbRQ0)
