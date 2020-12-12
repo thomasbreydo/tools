@@ -48,3 +48,8 @@ drawings, language, music, and more."
 - [Spin of An Electron: Why "Spin Up" and "Spin Down"?](https://youtu.be/EfH8XuYbRQ0)
 
 - Quantum computing language: [here](https://youtu.be/payp7simhBM)
+
+
+# Presentations
+
+[Mentimeter](https://www.mentimeter.com) for interactive presentation elements (live polls, quizzes, word clouds, Q&As)
