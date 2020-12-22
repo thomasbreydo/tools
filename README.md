@@ -43,6 +43,8 @@ drawings, language, music, and more."
 
 - [Introduction to the Quantum Circuit Model](https://www.cs.cmu.edu/~odonnell/quantum15/QuantumComputationScribeNotesByRyanODonnellAndJohnWright.pdf)
 
+- [Physics of Quantum Computation](https://www.itp.tu-berlin.de/fileadmin/a3233/upload/SS16/PQC/PQC_LectureNotes.pdf)
+
 ### Videos
 
 - [Spin of An Electron: Why "Spin Up" and "Spin Down"?](https://youtu.be/EfH8XuYbRQ0)
