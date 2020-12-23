@@ -45,6 +45,8 @@ drawings, language, music, and more."
 
 - [Physics of Quantum Computation](https://www.itp.tu-berlin.de/fileadmin/a3233/upload/SS16/PQC/PQC_LectureNotes.pdf)
 
+- [An Introduction to Quantum Computing](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149125645.pdf), 271 pages
+
 ### Videos
 
 - [Spin of An Electron: Why "Spin Up" and "Spin Down"?](https://youtu.be/EfH8XuYbRQ0)
