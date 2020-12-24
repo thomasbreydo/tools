@@ -53,6 +53,14 @@ drawings, language, music, and more."
 
 - Quantum computing language: [here](https://youtu.be/payp7simhBM)
 
+### Recorded courses
+
+- MIT's 8.05 Quantum Physics II, Fall 2013: _General Structure of Quantum Mechanics, Quantum Dynamics, Two-state Systems, Angular Momentum and Spin, The Radial Equation and Operator Methods, Addition of Angular Momentum, Introduction to the Quantum Mechanics of Identical Particles._
+
+  - [Lecture 1](https://www.youtube.com/watch?v=QI13S04w8dM)
+  
+  - [All materials](http://ocw.mit.edu/8-05F13)
+
 
 # Presentations
 
