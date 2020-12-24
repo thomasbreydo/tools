@@ -61,6 +61,7 @@ drawings, language, music, and more."
   
   - [All materials](http://ocw.mit.edu/8-05F13)
 
+- Qiskit's [Introduction to Quantum Computing and Quantum Hardware](https://qiskit.org/learn/intro-qc-qh/) (leads to Shor's algorithm in lecture 8!)
 
 # Presentations
 
