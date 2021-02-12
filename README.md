@@ -66,3 +66,10 @@ drawings, language, music, and more."
 # Presentations
 
 [Mentimeter](https://www.mentimeter.com) for interactive presentation elements (live polls, quizzes, word clouds, Q&As)
+
+# C++
+
+- To install the `gcc` compiler, which has `<bits/stdc.h>`, run `brew install gcc` then use `g++-10` (where `10` is the version of `gcc` that
+Homebrew installed.
+
+  - Then, change CLion's `Preferences > Build, Execution, Deployment > Toolchains > C++ Compiler` to `/path/to/g++-10`.
